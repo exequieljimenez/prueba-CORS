@@ -1,0 +1,20 @@
+.listaStyle {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bolder;
+    margin: 1rem;
+}
+
+li {
+    list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+img {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    max-width: 163px;
+    height: auto;
+}
