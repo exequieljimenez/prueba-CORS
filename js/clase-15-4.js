@@ -6,3 +6,5 @@ fetch('albums.json')
         console.log(data)
         listaAlbumes = data
     })
+
+console.log(listaAlbumes)
